@@ -1,0 +1,27 @@
+# Page not loading
+
+## User issue
+The page is not loading.
+
+## Possible causes
+- Slow or unstable internet connection
+- Frontend rendering issue
+- API request failure
+- Server-side issue
+- Browser incompatibility
+
+## Troubleshooting steps
+1. Ask the user to check their internet connection and refresh the page.
+2. Ask the user to try opening the page in a different browser.
+3. Check the console for errors or failed requests.
+4. Verify if data from the API is loading correctly.
+
+## User-friendly response
+Please make sure your internet connection is stable while using the website. 
+
+You can also try opening the page in a different browser. 
+
+If the issue persists, please let us know which page it occurs on and whether you see any error messages so we can investigate further. 
+
+## Internal note
+The issue may be related to browser incompatibility, frontend rendering problems, Api failures, or server-side issues.
