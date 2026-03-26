@@ -1,0 +1,29 @@
+# Form not submitting
+
+## User issue
+The user cannot submit the form.
+
+## Possible causes
+- Missing required fields
+- Validation error (client-side or server-side)
+- The backend endpoint is not responding
+- JavaScript issue in form handling
+- Network error during submission
+
+## Troubleshooting steps
+1. Ask the user to make sure all the required fields are filled out.
+2. Ask the user to clear their cache or try a different browser.
+3. Ask the user to share any error messages.
+4. Test form submission.
+5. Check validation rules and backend responses.
+6. Check frontend behaviour and API responses.
+
+## User-friendly response
+Please make sure all the required fields are filled correctly. 
+
+You can also try clearing your browser cache or trying a different browser.
+
+If the issue occurs, please share any error messages with us so we can identify the problem faster.
+
+## Internal note
+The issue may be related to validation errors, JavaScript issues, backend endpoint problems, or API failures. 
