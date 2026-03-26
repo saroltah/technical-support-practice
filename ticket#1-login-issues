@@ -1,0 +1,26 @@
+Login issues
+
+## User issue
+The user can not log in.
+
+## Possible causes
+- Incorrect username or wrong password
+- Temporary server issue
+- Incomplete or incorrect registration
+- Session or browser cache issue
+
+## Troubleshooting steps
+1. Ask the user to check their login details and reset their password if needed.
+2. Ask the user to refresh the page and try a different browser.
+2. Test the authentication, database, and backend systems.
+3. Collect any error messages from the user.
+
+## User-friendly response
+Please make sure you are using the correct username and password. You can use the "Forgot your password?" option to reset your password and confirm your username. 
+
+If you still cannot log in, try refreshing the page, clearing your browser cache, or using a different browser. 
+
+If the issue persists, please share any error messages with us so we can investigate further.
+
+## Internal note
+The issue may be related to incorrect login details, temporary server issues, or problems with authentication or the database.
