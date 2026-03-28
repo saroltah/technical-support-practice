@@ -1,0 +1,28 @@
+# Inefficient mobile use
+
+## User issue
+The user finds the product difficult to use on mobile.
+
+## Possible causes
+- Not a fully responsible design
+- Buttons or interactive elements are too small
+- Content does not fit on smaller screens
+- CSS media queries are missing or not working completely
+
+## Troubleshooting steps
+1. Ask the user which device or browser they are using.
+2. Ask the user which part of the page or feature is difficult to use.
+3. Test - try to reproduce the issue on a similar device or screen size.
+4. Check layout, responsiveness, and touch interactions.
+
+## User-friendly response
+Hi!
+
+Thanks for reporting the issue; it is appreciated.ű
+
+Could you let me know which device or browser you are using, and which part feels difficult to use? That will help us look into it properly.
+
+We will check this on our side as well and get back to you. 
+
+## Internal note
+The issue might be related to responsiveness or a mobile UX issue. It could be layout, touch targets, or missing/incomplete media queries.
