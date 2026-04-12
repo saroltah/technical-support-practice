@@ -1,26 +1,28 @@
 Login issues
 
 ## User issue
-The user can not log in.
+The user can’t log in to their account.
 
 ## Possible causes
-- Incorrect username or wrong password
-- Temporary server issue
-- Incomplete or incorrect registration
-- Session or browser cache issue
+- The username or the password is incorrect.
+- A temporary server issue.
+- The registration is incomplete or incorrect.
+- A session or browser cache issue.
 
 ## Troubleshooting steps
-1. Ask the user to check their login details and reset their password if needed.
-2. Ask the user to refresh the page and try a different browser.
-2. Test the authentication, database, and backend systems.
-3. Collect any error messages from the user.
+1. Ask the user to double-check their login details.
+2. Suggest resetting the password if needed.
+3. Ask them to refresh the page or try another browser.
+4. Check authentication and backend systems.
+5. Ask if they see any error message and note it.
+
 
 ## User-friendly response
-Please make sure you are using the correct username and password. You can use the "Forgot your password?" option to reset your password and confirm your username. 
-
-If you still cannot log in, try refreshing the page, clearing your browser cache, or using a different browser. 
-
-If the issue persists, please share any error messages with us so we can investigate further.
+Hi,
+Sorry you’re having trouble logging in.
+Could you double-check your username and password first? If you’re unsure, you can use the password reset option.
+If that doesn’t help, try refreshing the page or using a different browser; this often resolves the issue.
+If you’re still unable to log in, please let me know if you see any error message, and I’ll look into it.
 
 ## Internal note
-The issue may be related to incorrect login details, temporary server issues, or problems with authentication or the database.
+The issue may be connected to incorrect login details, an incomplete account setup, session/cache issues, or a temporary problem with the authentication service.
