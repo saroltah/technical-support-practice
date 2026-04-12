@@ -16,10 +16,9 @@ The user can’t log in to their account.
 4. Check authentication and backend systems.
 5. Ask if they see any error message and note it.
 
-
 ## User-friendly response
 Hi,
-Sorry you’re having trouble logging in.
+Sorry, you’re having trouble logging in.
 Could you double-check your username and password first? If you’re unsure, you can use the password reset option.
 If that doesn’t help, try refreshing the page or using a different browser; this often resolves the issue.
 If you’re still unable to log in, please let me know if you see any error message, and I’ll look into it.
