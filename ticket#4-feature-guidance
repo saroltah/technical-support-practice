@@ -1,23 +1,35 @@
 Feature guidance
 
 ## User issue
-The user does not understand a feature or is unsure about what step to take.
+The user doesn’t understand a feature or isn't sure what the next step should be.
 
 ## Possible causes
-- The feature is not explained clearly
-- The interface is confusing
-- There is not enough visual guidance
-- The user is unfamiliar with the workflow
+- The feature is not explained clearly.
+- The interface is confusing.
+- There is not enough visual guidance.
+- The user is unfamiliar with the workflow.
 
 ## Troubleshooting steps
-1. Identify which part is unclear for the user.
-2. Giving a clear explanation in simple language.
-3. Breaking the process into small steps.
-3. Suggest the issue could be improved by the interface or documentation changes.
-4. Collect similar feedback to identify usability patterns.
+1. Ask the user which part is unclear.
+2. Provide a clear explanation in simple language.
+3. Break the process down into small steps.
+4. Guide the user through the next step.
+5. Suggest the issue could be improved by the interface or documentation changes.
 
 ## User-friendly response
-Here is how this feature works. First, click on the relevant link, then you are able to access the surface for step1. Then do step one. You will be able to see another field, then do step 2. Finally, you can do step 3 at the bottom of the page. Please let me know if anything is unclear, and I can help further.
+Hi,
+
+Thanks for your message. I’m happy to help with this.
+
+Here is how this feature works: First, go to the relevant section and click the relevant link.
+From there, you can access the surface for step one. 
+
+Then complete step one. There you will be able to see another field, then do step 2. 
+
+Finally, complete the last step at the bottom of the page. 
+
+Please let me know if anything else is unclear, and I can help further.
 
 ## Internal note
-The issue may be related to user-side unfamiliarity. Possibly unclear frontend design, or unclear documentation.
+The issue may be related to user-side unfamiliarity. The frontend design or documentation could be unclear.
+
